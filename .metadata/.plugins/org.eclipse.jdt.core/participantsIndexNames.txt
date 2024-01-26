@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+/Users/keizosasaki/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3039905825.index
+/web_basic/src/main/java
+/Users/keizosasaki/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3805696522.index
+/Calc_sum/src/main/java

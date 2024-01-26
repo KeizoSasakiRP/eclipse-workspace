@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet>
+		<servlet-name>UseForwardServlet1Mapping</servlet-name>
+		<servlet-class>web_basic.UseForwardServlet1</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>UseForwardServlet1Mapping</servlet-name>
+		<url-pattern>/UseForwardServlet1</url-pattern>
+	</servlet-mapping>
+</web-app>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>MyPage</title>
+</head>
+<body>
+	<h1>自己紹介</h1>
+	<h2>名前</h2>
+	<p>佐々木慶蔵</p>
+	<h2>趣味</h2>
+	<ul>
+		<li>ゲーム</li>
+		<li>旅行</li>
+	</ul>
+	<h2>生年月日</h2>
+	<p>1998年10月23日</p>
+</body>
+</html>

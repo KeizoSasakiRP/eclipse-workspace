@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<servlet>
+	<servlet-name>CalcSumMapping</servlet-name>
+	<servlet-class>CalcSum</servlet-class>
+</servlet>
+<servlet-mapping>
+	<servlet-name>CalcSum</servlet-name>
+	<url-pattern>/CalcSum</url-pattern>
+</servlet-mapping>

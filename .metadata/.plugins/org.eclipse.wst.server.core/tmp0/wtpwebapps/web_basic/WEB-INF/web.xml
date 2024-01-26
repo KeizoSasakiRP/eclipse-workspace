@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet>
+		<servlet-name>UseRequestServlet1Mapping</servlet-name>
+		<servlet-class>web_basic.UseRequestServlet1</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>UseRequestServlet1Mapping</servlet-name>
+		<url-pattern>/UseRequestServlet1</url-pattern>
+	</servlet-mapping>
+</web-app>
